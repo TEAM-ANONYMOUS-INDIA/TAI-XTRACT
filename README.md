@@ -51,7 +51,7 @@ Finds easily dumpable databases for security testing
 git clone https://github.com/TEAM-ANONYMOUS-INDIA/TAI-XTRACT.git
 cd TAI-XTRACT
 pip install -r requirements.txt
-python3 TAI_XTRACT.py
+python3 TAI-XTRACT.py
 ```
 ### 🔹 Windows Installation
 
@@ -59,7 +59,7 @@ python3 TAI_XTRACT.py
 git clone https://github.com/TEAM-ANONYMOUS-INDIA/TAI-XTRACT.git
 cd TAI-XTRACT
 pip install -r requirements.txt
-python TAI_XTRACT.py
+python3 TAI-XTRACT.py
 ```
 
 ⚙️ Requirements
@@ -94,7 +94,7 @@ Run the tool and enter the target website URL:
 
 
 ```
-python3 TAI_XTRACT.py
+python3 TAI-XTRACT.py
 ```
 
 # ⚠️ Disclaimer
