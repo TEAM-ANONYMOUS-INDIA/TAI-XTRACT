@@ -1,0 +1,16 @@
+os
+requests
+builtwith
+socket
+whois
+dnspython
+dns.resolver
+threading
+urllib3
+re
+bs4
+termcolor
+tqdm
+time
+subprocess
+shodan
