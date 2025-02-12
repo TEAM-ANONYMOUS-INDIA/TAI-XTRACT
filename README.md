@@ -8,7 +8,7 @@ TAI-XTRACT is a powerful, multi-functional website intelligence and vulnerabilit
 ⚡ Copyright: © TEAM ANONYMOUS INDIA - 2025
 
 
-#🔍 Features
+# 🔍 Features
 
 ✅ Website Intelligence Gathering
 
@@ -46,14 +46,14 @@ Finds easily dumpable databases for security testing
 
 💻 Installation
 
-###🔹 Linux & Termux Installation
+### 🔹 Linux & Termux Installation
 ```
 git clone https://github.com/TEAM-ANONYMOUS-INDIA/TAI-XTRACT.git
 cd TAI-XTRACT
 pip install -r requirements.txt
 python3 tai_xtract.py
 ```
-###🔹 Windows Installation
+### 🔹 Windows Installation
 
 ```
 git clone https://github.com/TEAM-ANONYMOUS-INDIA/TAI-XTRACT.git
@@ -61,8 +61,6 @@ cd TAI-XTRACT
 pip install -r requirements.txt
 python tai_xtract.py
 ```
-
----
 
 ⚙️ Requirements
 
@@ -73,7 +71,7 @@ pip install -r requirements.txt
 
 📜 requirements.txt
 
-
+```
 os
 requests
 builtwith
@@ -88,9 +86,9 @@ tqdm
 time
 subprocess
 shodan
+```
 
-
-##🚀 Usage
+## 🚀 Usage
 
 Run the tool and enter the target website URL:
 
@@ -99,12 +97,12 @@ Run the tool and enter the target website URL:
 python3 TAI_XTRACT.py
 ```
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is strictly for educational and ethical hacking purposes. Any misuse of this tool for illegal activities is solely the responsibility of the user. TEAM ANONYMOUS INDIA is not responsible for any consequences.
 
 
-🔗 Connect with Us
+## 🔗 Connect with Us
 
 📺 YouTube: TEAM ANONYMOUS INDIA
 📷 Instagram: @teamanonymousindia
